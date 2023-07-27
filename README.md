@@ -9,4 +9,4 @@ The included notebook takes a text prompt and generates a 3D mesh using __[Stabl
 ![interior of a mountain chalet by frank lloyd wright](images/interior_of_a_mountain_chalet_by_frank_lloyd_wright-1690402022.png)
 
 ### Mesh
-[mesh.webm](https://github.com/timzero/text_to_mesh/assets/277352/e90541cd-7829-4e20-b96e-c6b73ecd8e92)
+[interior_of_a_mountain_chalet_by_frank_lloyd_wright-1690431419.webm](https://github.com/timzero/text_to_mesh/assets/277352/657fe2be-d338-4f0a-b1ae-21353558ff9a)
